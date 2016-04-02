@@ -9,3 +9,7 @@
 ##### *... an example of REPRODUCIBLE RESEARCH, which can regenerate an analysis from raw data to computational analysis to publication-quality graphics! Feel free to experiment with the code in this temporary environment. If you have comments, please post an issue. Thank you.*
 
 ###### This work was supported by the National Institutes of Health, including the Stimulating Peripheral Activity to Relieve Conditions (SPARC) Program (award# U18EB021772) and a grant to the University of Pittsburgh Cancer Institute (award# P30CA047904, Cancer Center Support Grant).
+
+##### Usage Notes:
+* Running the Jupyter notebooks will produce output files, including images, analyzed data, and shareable HTML copies of the notebooks, which are accessible by going to "Open ..." on the File menu tab in Jupyter.
+* For offline usage of the files, Python and R dependencies are listed in the README files in the Supplement folders.  
