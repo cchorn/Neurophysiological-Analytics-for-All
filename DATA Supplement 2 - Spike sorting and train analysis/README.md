@@ -24,7 +24,7 @@ The Jupyter notebook files requires installation of Jupyter (1.0.0) for renderin
 * Spiketrain-Analysis.ipynb (Jupyter notebook)
 * Spiketrain-Analysis.html (copy)  
 
-**To properly run `Spiketrain-Analysis.ipynb` on Binder, you first must first run `Spike-Sorting.ipynb` in order to generate the `times_unit2.txt` file (containg the Cluster 2 timestamps) used in Spiketrian-Analysis.ipynb.**  
+**To properly run `Spiketrain-Analysis.ipynb` on Binder, you first must first run `Spike-Sorting.ipynb` in order to generate the `times_unit2.txt` file (containg the Cluster 2 timestamps) used in `Spiketrian-Analysis.ipynb`.**  
 
 
 ## DATA_FILES folder
