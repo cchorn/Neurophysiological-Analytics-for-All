@@ -12,4 +12,5 @@
 
 ##### Usage Notes:
 * Running the Jupyter notebooks will produce output files, including images, analyzed data, and shareable HTML copies of the notebooks, which are accessible by going to "Open ..." on the File menu tab in Jupyter.
+* The spike sorting notebook needs to be run before the spike train notebook, which depends on a spike timestamp output file.
 * For offline usage of the files, Python and R dependencies are listed in the README files in the Supplement folders.  
