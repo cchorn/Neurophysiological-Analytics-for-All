@@ -1,0 +1,18 @@
+<CEDResources>
+	<DocTime>
+		<View>
+			<WPlace flags="0" showc="1" minx="-1" miny="-1" maxx="-1" maxy="-1" t="22" b="302" l="22" r="860"/>
+			<Font hgt="-11" hthou="-115" wgt="400" paf="16" fnam="Times New Roman"/>
+			<Chan Chan="0" DMode="11" DWidth="-4.9999999999999996e-006" DDSize="-1" DSubMd="2" Vis="1" Ax="1" AxMin="-5" AxMax="5" AdcAxMin="-5" AdcAxMax="5" FreqAxMax="5000" AxType="1" ChType="1"/>
+			<XInfo Left="79.281797129417498" Right="80.281793923740693" XAxSmall="5" VCLabMode="2" HCLabMode="1" VCCount="1">
+				<VCur id="0" Pos="0" LabMode="2" LabPos="0.20000000000000001" Num="0" Chan="0" LabStr="" AMode="0"/>
+			</XInfo>
+			<ChOrder Chans="1">
+				<c id="0" Chan="0"/>
+			</ChOrder>
+			<CursVals XZero="0" YZero="0" Mode="0"/>
+			<CursRegs XZero="0" YZero="0" Mode="0"/>
+			<OvDraw3d YProp="0.5" XScale="0.5" YScale="0.5"/>
+		</View>
+	</DocTime>
+</CEDResources>
