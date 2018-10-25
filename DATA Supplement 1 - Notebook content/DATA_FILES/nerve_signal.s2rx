@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CEDResources App="Spike2" AppVer="904">
+	<DocTime>
+		<View>
+			<WPlace flags="0" showc="3" minx="-1" miny="-1" maxx="-4" maxy="-23" t="22" b="648" l="22" r="1390"/>
+			<Font hgt="-11" hthou="-115" wgt="400" paf="16" fnam="Times New Roman"/>
+			<Chan Chan="1" DMode="11" DWidth="-4.9999999999999996e-6" DDSize="-1" AxMin="-5" AxMax="5" AdcAxMin="-5" AdcAxMax="5" FreqAxMax="10000" AxType="1" ChType="1" BackOv="0">
+				<FitParam DrawFR="1" ShowF="0" Ref="Cursor(1)" MaxIt="100">
+					<c id="0" Val="1" HLim="1000000"/>
+					<c id="1" Val="1" HLim="1000000"/>
+					<c id="2" Val="1" HLim="1000000"/>
+				</FitParam>
+			</Chan>
+			<XInfo Right="0.9999908226656626" XAxSmall="5" CRBack="0" VCLabMode="2" HCLabMode="1" VCCount="1">
+				<VCur id="0" LabMode="2" LabPos="0.2" Num="0"/>
+			</XInfo>
+			<ChOrder Chans="1">
+				<c id="0" Chan="1"/>
+			</ChOrder>
+			<CursVals/>
+			<CursRegs/>
+			<OvDraw3d YProp="0.5" XScale="0.5" YScale="0.5"/>
+		</View>
+	</DocTime>
+</CEDResources>
